@@ -1,11 +1,13 @@
 import React from 'react';
 
 const SignUp  = () => {
-  return <div>SignUp
+  return (
+     <div>
 
 
 
   </div>;
+) 
 };
 
 
